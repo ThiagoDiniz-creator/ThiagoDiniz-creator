@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 
  ![](https://komarev.com/ghpvc/?username=ThiagoDiniz-creator-github-username&color=blue) 
 
-<div align="center"> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoDiniz-creator&show_icons=true&theme=midnight-purple)
-
-</div> 
 
  ### 📖 About me
   <h4> 
