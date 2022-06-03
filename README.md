@@ -21,25 +21,28 @@ Here are some ideas to get you started:
 
  ### 📖 About me
   <h4> 
-    <li> 📘 My name is Thiago Diniz
-    <li> 🌎 I live in Mogi Mirim, São Paulo, Brazil.
-    <li> 🎁 I was born in 20/03/2002.
-    <li> 📚 I'm currently studying System Analysis and Development at Fatec Arthur de Azevedo, now I'm in the third semester.
+    <li> My name is Thiago Diniz
+    <li> I live in Mogi Guaçu, São Paulo, Brazil.
+    <li> I was born in 20/03/2002.
+    <li> I'm currently studying System Analysis and Development at Fatec Arthur de Azevedo, now I'm in the third semester.
+    <li> I love to talk about technologies, and to learn new topics regarding anything related to IT.
    </h4>
 
   #### I'm open to work, I would love the opportunity to develop using any technologies (but, especially the ones I'm already familiar with). 
   #### I'm currently working on personal projects using the following technologies:
 
   <div align="center">
-      <img align="center" alt="" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" alt="" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img align="center" alt="" height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img align="center" alt="" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img align="center" alt="" height="30px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-       <img align="center" alt="" height="30px" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
-      <img align="center" alt="" height="30px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+       <img align="center" alt="HTML5" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+       <img align="center" alt="CSS3" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+       <img align="center" alt="Javascript" height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the- badge&logo=javascript&logoColor=F7DF1E">
+       <img align="center" alt="React" height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+       <img align="center" alt="Redux" height="30px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+       <img align="center" alt="NodeJS" height="30px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+        <img align="center" alt="Express.JS" height="30px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+       <img align="center" alt="MySQL" height="30px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+       <img align="center" alt="MongoDB" height="30px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 
-  <br>
+ <br>
 <div align="center"> 
  
 
