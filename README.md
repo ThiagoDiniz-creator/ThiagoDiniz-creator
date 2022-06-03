@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h2> Hi there! ✋ <br> Welcome to my GitHub is a pleasure to receive you! 😃  </h2>
-
- ![](https://komarev.com/ghpvc/?username=ThiagoDiniz-creator-github-username&color=blue) 
+<h1>Welcome to my GitHub, it's a pleasure to receive you!</h1>
 
 
  ### 📖 About me
