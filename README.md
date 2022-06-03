@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <li> I love to talk about technologies, and to learn new topics regarding anything related to IT.
    </h4>
 
-  #### I'm open to work, I would love the opportunity to develop using any technologies (but, especially the ones I'm already familiar with). 
+  #### I'm open to work. 
   #### I'm currently working on personal projects using the following technologies:
 
   <div align="center">
