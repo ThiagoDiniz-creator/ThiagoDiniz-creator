@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <li> My name is Thiago Diniz
     <li> I live in Mogi Guaçu, São Paulo, Brazil.
     <li> I was born in 20/03/2002.
-    <li> I'm currently studying System Analysis and Development at Fatec Arthur de Azevedo, now I'm in the third semester.
+    <li> I'm currently studying System Analysis and Development at Fatec Arthur de Azevedo, now I'm in the fourth semester.
     <li> I love to talk about technologies, and to learn new topics regarding anything related to IT.
    </h4>
 
