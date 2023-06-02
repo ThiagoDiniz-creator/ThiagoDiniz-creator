@@ -6,7 +6,7 @@ Hello, World! I'm Thiago Diniz, a student at Fatec Arthur de Azevedo, Brazil, di
 
 - 🌿 Currently navigating my fifth semester, I'm deep-diving into an ocean of diverse IT-related subjects.
 - 🗣️ Keen on discussing new technologies, I explore avant-garde tools and frameworks.
-- 💌 Reach out to me on [thiagodinizbrasil@gmail.com](mailto:thiagodinizbrasil@gmail.com).
+- 💌 Reach out to me on [thiago.diniz.20.03.2002@gmail.com](mailto:thiago.diniz.20.03.2002@gmail.com).
 
 ## 💻 Technical Skills 
 
