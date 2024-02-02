@@ -1,12 +1,12 @@
 # 🚀 Welcome to Thiago Diniz's GitHub Universe! 🚀
 
-Hello, World! I'm Thiago Diniz, a student at Fatec Arthur de Azevedo, Brazil, diligently developing my skills in System Analysis and Development. 
+Hello, World! I'm Thiago Diniz, a recent graduate from Fatec Arthur de Azevedo, Brazil, with a strong foundation in System Analysis and Development.
 
 ## 👨‍💻 About Me
 
-- 🌿 Currently navigating my fifth semester, I'm deep-diving into an ocean of diverse IT-related subjects.
-- 🗣️ Keen on discussing new technologies, I explore avant-garde tools and frameworks.
-- 💌 Reach out to me on [thiago.diniz.20.03.2002@gmail.com](mailto:thiago.diniz.20.03.2002@gmail.com).
+- 🌿 I successfully navigated through my academic journey, completing my course at Fatec Arthur de Azevedo.
+- 🗣️ Passionate about discussing new technologies, I explore avant-garde tools and frameworks to stay at the forefront of the ever-evolving IT landscape.
+- 💌 You can reach out to me via email: [thiago.diniz.20.03.2002@gmail.com](mailto:thiago.diniz.20.03.2002@gmail.com).
 
 ## 💻 Technical Skills 
 
@@ -43,6 +43,6 @@ Hello, World! I'm Thiago Diniz, a student at Fatec Arthur de Azevedo, Brazil, di
 ---
 <div align="center">
 
-Thank you for stopping by! Have a splendid day!
+Thank you for stopping by! Wishing you a splendid day!
 
 </div>
